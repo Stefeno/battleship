@@ -49,7 +49,7 @@ try {
     die("Connection error: " . DB_NAME . " - " . DB_USER . " - " . DB_PASS . " - " . $e->getMessage());
 }
 ?>
-
+```
 ##🧪 Project Status
 
 This project is **still under development**.
