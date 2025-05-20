@@ -1,5 +1,11 @@
 # Battleship
 
+![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+[![Contact](https://img.shields.io/badge/contact-stefano.gaviglia@gmail.com-blue?style=flat&logo=gmail)](mailto:stefano.gaviglia@gmail.com)
+
+
 **Battleship** is a simple old-style naval battle game, playable online either in multiplayer mode or against an AI opponent.  
 This project has both educational and recreational purposes.
 
@@ -27,7 +33,7 @@ This project has both educational and recreational purposes.
 ### Installation
 
 1. Copy all project files to a directory on your server (e.g., `/var/www/html/battleship`).
-2. Create a MySQL database (structure will be provided via `.sql` file in a future update).
+2. Create a MySQL database. A SQL file named `battleship.sql` is provided under the `/database` folder to create the necessary database structure.
 3. Inside the project root, create a folder named `config/`.
 4. Inside `config/`, create a file named `database.php` and insert the following content, adjusting credentials as needed:
 
