@@ -50,23 +50,24 @@ try {
 }
 ?>
 ```
-##🧪 Project Status
+
+### 🧪 Project Status
 
 This project is **still under development**.
 So far, it has been tested on Firefox and Chrome browsers, under Windows and Linux desktop environments.
 Tests on macOS and iPhone are still pending.
 
-##📄 License
+### 📄 License
 
 This project is released as open source.
 Contributions are welcome!
 The specific license will be added in a future update — suggestions are appreciated (MIT, GPL, etc.).
 
-##👤 Author
+### 👤 Author
 
 Stefano Gaviglia
 Feel free to fork, suggest improvements, or report issues via the GitHub repository.
 
-##🤝 Contributions
+### 🤝 Contributions
 
 If you'd like to contribute, feel free to open a pull request or suggest improvements via issues.
