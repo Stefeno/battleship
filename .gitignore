@@ -6,3 +6,5 @@
 # Ignora tutti i file chiamati error_log, ovunque si trovino
 **/error_log
 **/*.sql
+!database/
+!database/battleship.sql
